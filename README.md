@@ -1,2 +1,3 @@
 # MindlessLands
-Monsters born, fight and die in little 1D world
+Monsters born, fight and die in little 1D world.
+Zero playing game in text.
